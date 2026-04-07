@@ -23,6 +23,10 @@ Amac: Tekrar eden manuel adimlari ortadan kaldirmak, degisiklikleri izlenebilir 
 > **Not:** Yalnizca registry tabanli tweak'ler ve yedekleme islemleri internet baglantisi gerektirmez.
 
 ---
+## Preview
+
+![Main Menu](docs//Winforge-1.pdf)
+![Tweaks](docs/Winforge-2.pdf)
 
 ## Klasor Yapisi
 

@@ -1,0 +1,7 @@
+dist/
+logs/
+backups/
+*.log
+*.zip
+Thumbs.db
+Desktop.ini

@@ -26,6 +26,8 @@ Amac: Tekrar eden manuel adimlari ortadan kaldirmak, degisiklikleri izlenebilir 
 ## Preview
 
 ![Main Menu](docs/images/Winforge-menu.png)
+
+
 ![Tweaks](docs/images/Winforge-Tweaks.png)
 
 ## Klasor Yapisi

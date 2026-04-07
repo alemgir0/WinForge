@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 # WinForge v1.0 — Windows Kurulum ve Bakim Araci
 
 WinForge; yeni bir Windows kurulumu sonrasinda uygulama yuklemek, sistem ayarlarini otomatik yapilandirmak, rutin bakim islemlerini gerceklestirmek ve registry yedegini almak icin tasarlanmis, **moduler ve veri odakli** bir PowerShell 5.1 aracidır.
